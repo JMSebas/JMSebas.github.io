@@ -1,35 +1,9 @@
 # Portafolio de Josue 😊
 
-¡Hola! Soy Josue, un apasionado desarrollador web. Este es mi portafolio personal, donde comparto información sobre mí y algunos de mis proyectos. 
-
-## Sobre Mí 🚀
-
-Soy un entusiasta de la tecnología con experiencia en desarrollo web. Me encanta aprender nuevas tecnologías y enfrentar desafíos emocionantes. Siempre estoy buscando oportunidades para mejorar mis habilidades y contribuir a proyectos interesantes.
-
-## Preparación Académica 🎓
-
-- **Estudiante de la carrera de Software**
-  - Universidad Tecnica de Ambato
+# Finalidad del Proyecto
+En este proyecto, mi objetivo fue crear una página de presentación que reflejara la esencia de la marca o el individuo. La página de presentación es la primera impresión que los visitantes tendrán de la marca o el individuo, por lo que es importante que sea atractiva y fácil de navegar. Para lograr esto, utilicé una variedad de herramientas y técnicas de diseño para crear una página de presentación que fuera visualmente atractiva y fácil de usar. Siéntete libre de explorar mi portafolio y ver cómo puedo ayudarte a crear una página de presentación impresionante para tu marca o para ti.
 
 
-## Hobbies 🎮📚
-
-En mi tiempo libre, disfruto de:
-
-- 🎮 Jugar videojuegos
-- 📚 Leyendo libros sobre ciencia ficcion
-- 📺 Ver series y peliculas
-- 📚 Aprender cosas nuevas
-
-## Lenguajes y Tecnologías 🚀
-
-Aquí hay algunas de las tecnologías con las que trabajo:
-
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
 
 # Clonar Repositorio - Pasos Rápidos 🚀
 

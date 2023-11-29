@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+aside {
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background: #151719;
+}
+
+aside ul li {
+    color: rgb(230, 230, 230, .9);
+    text-align: center;
+    padding: 15px 10px;
+    list-style: none;
+    border-bottom: 1px solid rgba(100, 100, 100, .3);
+}
+
+a {
+    text-decoration: none;
+}
+
+#Content {
+    background-color: white;
+    position: absolute;
+    right: 0;
+    width: 1336px;
+    height: 716px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+#Content1{
+    background-color: white;
+    position: absolute;
+    right: 0;
+    width: 1336px;
+    height: 716px;
+    text-align: center;
+}
+#Content1 h1{
+    padding: 23px;
+}
+
+#Content h1 {
+    padding: 10px;
+}
+
+.Datos {
+    background-color: white;
+    width: 600px;
+    height: 190px;
+}
+
+.Datos p {
+    text-align: justify;
+}
+
+footer {
+    background-color: antiquewhite;
+    position: fixed;
+    right: 0;
+    top: 86%;
+    width: 1336px;
+    height: 100px;
+}
+
+footer li {
+    list-style: none;
+}
